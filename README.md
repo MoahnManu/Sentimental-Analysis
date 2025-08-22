@@ -27,7 +27,7 @@ Regex: Used for cleaning and preparing text data.
 Dataset
 The project uses the IMDb Dataset of 50K Movie Reviews, which you can use for this project.
 
-Link: IMDb Dataset of 50K Movie Reviews on Kaggle
+Link: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 Setup and Installation
 Follow these steps to set up and run the project on your local machine.
